@@ -1,0 +1,70 @@
+Border Radius (same for each case) : 8px
+
+logo icon:
+108px X 52px
+
+logo name :
+62px X 80px
+
+-----------------------------------------------
+
+profile picture :
+main picture : 90px X 90px
+outer ring : 100px X 100px
+
+ 
+------------------------------------------------
+
+instruction button :
+width : 200px 
+height : 60px
+font : 20px
+
+-----------------------------------------------
+timer font : 30px
+
+-------------------------------------------------
+
+clear, mark, save buttons :
+
+width : 240px
+height : 60px
+font : 20px
+
+--------------------------------------------------
+
+previous, next buttons :
+
+width : 160px
+height : 60px
+font : 20px
+
+submit button :
+ 
+width : 200px
+height : 60px
+font : 20px
+
+----------------------------------------------------
+
+question container :
+
+width : 900 px
+height : 500px
+
+bookmark icon : 
+56px X 56px
+
+option tick square :
+24px X 24px
+border radius : 4px
+
+question and option font : 24px
+
+heading "question 19" 
+font : 30px
+weight 700
+
+----------------------------------------------------
+
+
